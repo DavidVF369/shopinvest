@@ -72,8 +72,8 @@
             </div>
 
             <div class="row product-header-info">
-                <div class="col-md-6 col-xs-6 row container-addcard">
-                    <div class="col-md-4 col-xs-4">
+                <div class="col-md-6 col-xs-8 row container-addcard">
+                    <div class="col-md-4 col-xs-5">
                         Amount
                     </div>
                     <div>
@@ -83,7 +83,7 @@
                         <button class="btn btn-sm" onclick="increaseItem()">+</button>
                     </div>
                 </div>
-                <div class="col-md-6 col-xs-6">
+                <div class="col-md-6 col-xs-4">
                     <button onclick="addToCard()" class="btn-add-cart btn btn-outline-dark flex-shrink-0" type="button">
                         <i class="bi-cart-fill me-1"></i>
                         Add to cart
